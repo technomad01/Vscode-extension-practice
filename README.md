@@ -1,6 +1,6 @@
 # helloworld README
 
-This is a practice run of building a Vscode extension and attaching a Go and Java debugger. 
+This is a practice run of building a Vscode extension and attaching a Go and Java debugger. This is purely for educational purpose.
 
 
 
